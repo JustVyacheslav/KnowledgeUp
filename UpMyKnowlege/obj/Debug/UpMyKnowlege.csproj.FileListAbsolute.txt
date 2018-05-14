@@ -1,0 +1,6 @@
+D:\MyProjects\С#\UpMyKnowlege\UpMyKnowlege\bin\Debug\UpMyKnowlege.exe.config
+D:\MyProjects\С#\UpMyKnowlege\UpMyKnowlege\bin\Debug\UpMyKnowlege.exe
+D:\MyProjects\С#\UpMyKnowlege\UpMyKnowlege\bin\Debug\UpMyKnowlege.pdb
+D:\MyProjects\С#\UpMyKnowlege\UpMyKnowlege\obj\Debug\UpMyKnowlege.csprojResolveAssemblyReference.cache
+D:\MyProjects\С#\UpMyKnowlege\UpMyKnowlege\obj\Debug\UpMyKnowlege.exe
+D:\MyProjects\С#\UpMyKnowlege\UpMyKnowlege\obj\Debug\UpMyKnowlege.pdb
